@@ -16,7 +16,7 @@ The main author for this project is Kristofer Drozd, but he would like to awknow
 
 MIT License
 
-Copyright (c) 2023 SSEL Arizona
+Copyright (c) 2023 Kristofer Drozd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
